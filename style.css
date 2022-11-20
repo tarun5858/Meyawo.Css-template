@@ -1,0 +1,219 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Paaji|Open+Sans:300,300i,400,400i,600,600i,700,700i");
+*{
+    --font-family-sans-serif: "Open Sans", sans-serif;
+}
+.navbar{
+    position: sticky;
+    
+}
+.navbar-brand{
+    color: #695aa6;
+    font-weight: 1000;
+    margin-left: 200px;
+    font-family:sans-serif;
+    font-size: 28px;
+    
+    
+}
+.navbar-nav{
+    margin-left: 300px;
+    font-weight: bolder;
+    color: #212529;
+    --font-family-sans-serif: "Open Sans", sans-serif;
+    padding: 10px;
+    font-size: 17px;
+    
+}
+.nav-item a:hover{
+    color:#695aa6 ;
+}
+.btn{
+    margin-right: 200px;
+
+}
+.img-home{
+    position: absolute;
+    opacity: 99;
+
+}
+.text{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 500px;
+}
+.text-h{
+    color:#5e5e60;
+    font-weight: 1000;
+    
+    font-size: 50px;
+
+}
+body{
+    font-family: "Open Sans", sans-serif;
+}
+.text-h1{
+    color: #383a3d;
+    font-family: sans-serif;
+    font-weight: 1000;
+    
+    font-size: 70px;
+
+}
+.text-h3{
+    color: #484a4b;
+    font-weight: lighter;
+    font-family: "Open Sans", sans-serif;
+}
+.btn-home{
+    border-radius: 20px;
+    padding: 6px;
+    border: none;
+    width: 150px;
+    height: 40px;
+    margin-top: 30px;
+}
+
+#about {
+    background-color: white;
+    position: relative;
+   margin-top: 700px;
+   z-index: .99;
+}
+.text-about{
+    margin-top: 130px;
+
+}
+.abt-txt{
+    color: #695aa6;
+    font-weight: bolder;
+}
+.abt-p{
+    color:#5e5e60;
+}
+.btn-about{
+    padding: 10px;
+    background-color: #fff;
+    color: #695aa6;
+    border: 2px solid #695aa6;
+ 
+}
+.btn-about:hover{
+    background-color: #695aa6;
+    color: #fff;
+    border: #695aa6;
+
+}
+
+.sr-h{
+    color:#695aa6 ;
+    font-weight: bolder;
+}
+#row-service{
+    margin-top: 100px;
+}
+.col-md-3{
+    height: 220px;
+    width: 270px;
+    border: 1px solid #d4d4da;
+    margin-left: 30px;
+
+}
+.sr-h5{
+    font-weight: bolder;
+    margin-top: 10px;
+    color:#695aa6 ;
+}
+.price-box{
+    height: 600px;
+    width: 380px;
+    border: 1px solid #d4d4da;
+
+}
+.prc-p{
+    color:#5e5e60;
+}
+.x{
+    color: red;
+    font-size: 20px;
+}
+.prc-h1{
+    font-weight: bolder;
+}
+.btn-prc{
+  border: none;
+  padding: 8px;
+  width: 100px;
+  margin-top: 10px;
+}
+.btn-hire{
+
+}
+#hire-me{
+    margin-top: 80px;
+    width: 100%;
+    height: 130px;
+    background-color: #695aa6;
+}
+#txt-prc h5{
+    color: #fff;
+    margin-top: 30px;
+    font-weight: bolder;
+}
+#txt-prc p{
+    color: #fff;
+}
+.btn-hr{
+    margin-top: 30px;
+    border: none;
+    padding: 10px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.test-col {
+    border: 1px solid #d4d4da;
+    height: 180px;
+}
+.test-img img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+    margin-top: 35px;
+    margin-right: 10px;
+}
+.test-text h5{
+    color: #695aa6;
+    font-weight: bold;
+    float: left;
+    margin-left: 10px;
+}
+.test-text p{
+    color:#5e5e60;
+    margin-top: 10px;
+}
+.card-title{
+    float: left;
+    color: #695aa6;
+    font-weight: bolder;
+}
+.card-text{
+    float: left;
+}
+#read{
+    color: #695aa6;
+}
+#txt-bld{
+    font-weight: bolder;
+}
+.text-foot{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.foot-icons{
+    float: right;
+    margin: 5px;
+    cursor: pointer;
+   font-size: 25px;
+
+}
